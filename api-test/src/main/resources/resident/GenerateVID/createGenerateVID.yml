@@ -2075,7 +2075,6 @@ GenerateVID:
    Resident_GenerateVID_Perpetual_Using_RevokeUIN_Valid_Smoke_sid:
       endPoint: /resident/v1/vid
       uniqueIdentifier: TC_Resident_GenerateVID_28
-      uniqueIdentifier: TC_Resident_Generate_
       description: Generate perpetual VID using revokeUIN and valid inputs
       role: resident
       restMethod: post
